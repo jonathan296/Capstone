@@ -1,24 +1,25 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import './App.css'
-import Background from './assets/MovieClean1.png';
 import logo from './assets/monsterlogo.png';
+import {Route, Routes, Link} from 'react-router-dom'
+import Home from './components/home'
+import Frankenstein from './components/frankenstein';
 
-function App() {
-  const [count, setCount] = useState(0)
 
+function App() {  
   return (
     <>
       <div>
         <div className='navBar'>
-            <img src={logo}></img>
+            <img src={logo} ></img>
         </div>
-        <div className='movieScreen' style={{backgroundImage: `url(${Background})`,backgroundPosition: "center", backgroundRepeat: "no-repeat",backgroundSize: "cover"}}>
-          <div className='vidPlayer'>
-            <iframe src="https://archive.org/embed/frankenstein__1931&autoplay=1" width="780" height="595" frameBorder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowFullScreen></iframe>
-          </div>
+        
+        <div>
+          <Routes>
+            <Route path='/' element={<Home/>} />
+            <Route path='/frankenstein' element={<Frankenstein/>} />
+          </Routes>
         </div>
+       
       </div>
     </>
   )
