@@ -1,21 +1,21 @@
-import poster from '../assets/frankposter.jpg'
+import poster from '../assets/phantomposter.jpg'
 import Background from '../assets/MovieClean1.png';
 
 
-export default function Frankenstein(){
+export default function Phantom(){
     return(
 
         <div>
             <div className='movieScreen' style={{backgroundImage: `url(${Background})`,backgroundPosition: "center", backgroundRepeat: "no-repeat",backgroundSize: "cover"}}>
           <div className='vidPlayer'>
-            <iframe src="https://archive.org/embed/frankenstein__1931&autoplay=1" width="780" height="595" frameBorder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowFullScreen></iframe>
+            <iframe src="https://archive.org/embed/ThePhantomOfTheOpera_364&autoplay=1" width="780" height="595" frameBorder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowFullScreen></iframe>
           </div>
         </div>
         
           <div className='movieInfo'>
             <img src={poster} className='poster'></img>
             <div>
-              <h1 className='nowPlaying'>Now Playing: Frankenstein (1931)</h1>
+              <h1 className='nowPlaying'>Now Playing: The Phantom of the Opera (1925)</h1>
               <div className='description'>
                 <p>
                   This iconic horror film follows the obsessed scientist Dr. Henry Frankenstein as he attempts to 

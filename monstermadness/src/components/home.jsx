@@ -1,4 +1,4 @@
-import {Route, Routes, Link} from 'react-router-dom'
+import {Link} from 'react-router-dom'
 import frankposter from '../assets/frankposter.jpg'
 import dracposter from '../assets/draculaposter.jpg'
 import mummyposter from '../assets/mummyposter.jpg'
@@ -16,13 +16,13 @@ export default function Home() {
         <div className='posterContainer'>
             <div className='homePosters'>
                 <Link to='/frankenstein'><img src={frankposter}></img></Link>
-                <Link><img src={dracposter}></img></Link>
-                <Link><img src={mummyposter}></img></Link>
-                <Link><img src={invisibleposter}></img></Link>
-                <Link><img src={wolfposter}></img></Link>
-                <Link><img src={phantomposter}></img></Link>
-                <Link><img src={creatureposter}></img></Link>
-                <Link><img src={brideposter}></img></Link>
+                <Link to='/dracula'><img src={dracposter}></img></Link>
+                <Link to='/mummy'><img src={mummyposter}></img></Link>
+                <Link to='/invisible'><img src={invisibleposter}></img></Link>
+                <Link to='/wolfman'><img src={wolfposter}></img></Link>
+                <Link to='/phantom'><img src={phantomposter}></img></Link>
+                <Link to='/creature'><img src={creatureposter}></img></Link>
+                <Link to='/bride'><img src={brideposter}></img></Link>
             </div>
         </div>
         

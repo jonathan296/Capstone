@@ -1,21 +1,21 @@
-import poster from '../assets/frankposter.jpg'
+import poster from '../assets/invisibleposter.jpg'
 import Background from '../assets/MovieClean1.png';
 
 
-export default function Frankenstein(){
+export default function Invisble(){
     return(
 
         <div>
             <div className='movieScreen' style={{backgroundImage: `url(${Background})`,backgroundPosition: "center", backgroundRepeat: "no-repeat",backgroundSize: "cover"}}>
           <div className='vidPlayer'>
-            <iframe src="https://archive.org/embed/frankenstein__1931&autoplay=1" width="780" height="595" frameBorder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowFullScreen></iframe>
+            <iframe src="https://archive.org/embed/the.invisible.man.1933.720p.bluray.x264-hd4u&autoplay=1" width="780" height="595" frameBorder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowFullScreen></iframe>
           </div>
         </div>
         
           <div className='movieInfo'>
             <img src={poster} className='poster'></img>
             <div>
-              <h1 className='nowPlaying'>Now Playing: Frankenstein (1931)</h1>
+              <h1 className='nowPlaying'>Now Playing: The Invisible Man (1932)</h1>
               <div className='description'>
                 <p>
                   This iconic horror film follows the obsessed scientist Dr. Henry Frankenstein as he attempts to 
