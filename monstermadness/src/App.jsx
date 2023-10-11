@@ -8,6 +8,8 @@ import Mummy from './components/mummy';
 import Invisble from './components/Invisibleman';
 import Wolf from './components/wolfman';
 import Phantom from './components/phantom';
+import Creature from './components/creature';
+import Bride from './components/bride';
 
 function App() {  
   return (
@@ -26,9 +28,11 @@ function App() {
             <Route path='/invisible' element={<Invisble/>} />
             <Route path='/wolfman' element={<Wolf/>} />
             <Route path='/phantom' element={<Phantom/>} />
+            <Route path='/creature' element={<Creature/>} />
+            <Route path='/bride' element={<Bride/>} />
           </Routes>
         </div>
-        <div className='navBar' style={{marginTop: '40px'}}>
+        <div className='navBar' style={{marginTop: '70px'}}>
             
         </div>
        
