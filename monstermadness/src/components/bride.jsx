@@ -18,15 +18,11 @@ export default function Bride(){
               <h1 className='nowPlaying'>Now Playing: The Bride of Frankenstein (1935)</h1>
               <div className='description'>
                 <p>
-                  This iconic horror film follows the obsessed scientist Dr. Henry Frankenstein as he attempts to 
-                  create life by assembling a creature from body parts of the deceased. Aided by his loyal misshapen 
-                  assistant, Fritz, Frankenstein succeeds in animating his monster, but it escapes into the countryside 
-                  and begins to wreak havoc. Frankenstein searches for the elusive being and eventually must confront 
-                  his tormented creation.
+                After recovering from injuries sustained in the mob attack upon himself and his creation, Dr. Frankenstein (Colin Clive) falls under the control of his former mentor, Dr. Pretorius (Ernest Thesiger), who insists the now-chastened doctor resume his experiments in creating new life. Meanwhile, the Monster (Boris Karloff) remains on the run from those who wish to destroy him without understanding that his intentions are generally good despite his lack of socialization and self-control.
                 </p>
-                <h2>Release date: November 21, 1931</h2>
+                <h2>Release date:  April 22, 1935</h2>
                 <h2>Director: James Whale</h2>
-                <h2>Writers: John L. Balderston, Mary Shelley, Peggy Webling</h2>
+                
               </div>
             </div>
           </div>

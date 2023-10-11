@@ -18,15 +18,11 @@ export default function Dracula(){
               <h1 className='nowPlaying'>Now Playing: Dracula (1931)</h1>
               <div className='description'>
                 <p>
-                  This iconic horror film follows the obsessed scientist Dr. Henry Frankenstein as he attempts to 
-                  create life by assembling a creature from body parts of the deceased. Aided by his loyal misshapen 
-                  assistant, Fritz, Frankenstein succeeds in animating his monster, but it escapes into the countryside 
-                  and begins to wreak havoc. Frankenstein searches for the elusive being and eventually must confront 
-                  his tormented creation.
+                The dashing, mysterious Count Dracula (Bela Lugosi), after hypnotizing a British soldier, Renfield (Dwight Frye), into his mindless slave, travels to London and takes up residence in an old castle. Soon Dracula begins to wreak havoc, sucking the blood of young women and turning them into vampires. When he sets his sights on Mina (Helen Chandler), the daughter of a prominent doctor, vampire-hunter Van Helsing (Edward Van Sloan) is enlisted to put a stop to the count's never-ending bloodlust.
                 </p>
-                <h2>Release date: November 21, 1931</h2>
-                <h2>Director: James Whale</h2>
-                <h2>Writers: John L. Balderston, Mary Shelley, Peggy Webling</h2>
+                <h2>Release date: February 14, 1931</h2>
+                <h2>Director: Tod Browning, Karl Freund</h2>
+                
               </div>
             </div>
           </div>

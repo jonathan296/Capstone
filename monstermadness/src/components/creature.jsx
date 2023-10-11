@@ -18,15 +18,11 @@ export default function Creature(){
               <h1 className='nowPlaying'>Now Playing: Creature from the Black Lagoon (1954)</h1>
               <div className='description'>
                 <p>
-                  This iconic horror film follows the obsessed scientist Dr. Henry Frankenstein as he attempts to 
-                  create life by assembling a creature from body parts of the deceased. Aided by his loyal misshapen 
-                  assistant, Fritz, Frankenstein succeeds in animating his monster, but it escapes into the countryside 
-                  and begins to wreak havoc. Frankenstein searches for the elusive being and eventually must confront 
-                  his tormented creation.
+                Remnants of a mysterious animal have come to light in a remote jungle, and a group of scientists intends to determine if the find is an anomaly or evidence of an undiscovered beast. To accomplish their goal, the scientists (Antonio Moreno, Richard Carlson, Richard Denning, Whit Bissell) must brave the most perilous pieces of land South America has to offer. But the terrain is nothing compared to the danger posed by an otherworldly being that endangers their work and their lives.
                 </p>
-                <h2>Release date: November 21, 1931</h2>
-                <h2>Director: James Whale</h2>
-                <h2>Writers: John L. Balderston, Mary Shelley, Peggy Webling</h2>
+                <h2> February 12, 1954</h2>
+                <h2>Director: Jack Arnold</h2>
+                
               </div>
             </div>
           </div>

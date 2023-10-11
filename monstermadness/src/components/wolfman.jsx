@@ -18,15 +18,11 @@ export default function Wolf(){
               <h1 className='nowPlaying'>Now Playing: The Wolf Man (1941)</h1>
               <div className='description'>
                 <p>
-                  This iconic horror film follows the obsessed scientist Dr. Henry Frankenstein as he attempts to 
-                  create life by assembling a creature from body parts of the deceased. Aided by his loyal misshapen 
-                  assistant, Fritz, Frankenstein succeeds in animating his monster, but it escapes into the countryside 
-                  and begins to wreak havoc. Frankenstein searches for the elusive being and eventually must confront 
-                  his tormented creation.
+                When his brother dies, Larry Talbot (Lon Chaney) returns to Wales and reconciles with his father (Claude Rains). While there, he visits an antique shop and, hoping to impress Gwen (Evelyn Ankers), the attractive shopkeeper, buys a silver walking cane. That same night he kills a wolf with it, only to later learn that he actually killed a man (Bela Lugosi). A gypsy (Maria Ouspenskaya) explains that it was her son, a werewolf, that he killed, and that Larry is now one himself.
                 </p>
-                <h2>Release date: November 21, 1931</h2>
-                <h2>Director: James Whale</h2>
-                <h2>Writers: John L. Balderston, Mary Shelley, Peggy Webling</h2>
+                <h2>Release date: December 9, 1941</h2>
+                <h2>Director: George Waggner</h2>
+                
               </div>
             </div>
           </div>

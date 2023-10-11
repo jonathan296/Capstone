@@ -18,15 +18,11 @@ export default function Mummy(){
               <h1 className='nowPlaying'>Now Playing: The Mummy (1932)</h1>
               <div className='description'>
                 <p>
-                  This iconic horror film follows the obsessed scientist Dr. Henry Frankenstein as he attempts to 
-                  create life by assembling a creature from body parts of the deceased. Aided by his loyal misshapen 
-                  assistant, Fritz, Frankenstein succeeds in animating his monster, but it escapes into the countryside 
-                  and begins to wreak havoc. Frankenstein searches for the elusive being and eventually must confront 
-                  his tormented creation.
+                A team of British archaeologists led by Sir Joseph Whemple (Arthur Byron) discover the mummified remains of the ancient Egyptian prince Imhotep (Boris Karloff), along with the legendary scroll of Thoth. When one of the archaeologists recites the scroll aloud, Imhotep returns to life, but escapes. Several years later, Imhotep has taken on the guise of a wealthy man, as he searches Egypt for his lost love, who he believes has been reincarnated as the lovely Helen Grosvenor (Zita Johann).
                 </p>
-                <h2>Release date: November 21, 1931</h2>
-                <h2>Director: James Whale</h2>
-                <h2>Writers: John L. Balderston, Mary Shelley, Peggy Webling</h2>
+                <h2>Release date: December 22, 1932</h2>
+                <h2>Director: Karl Freund</h2>
+                
               </div>
             </div>
           </div>
